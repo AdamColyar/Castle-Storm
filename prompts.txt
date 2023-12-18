@@ -1,0 +1,39 @@
+AAMy King! If you choose to say this, the people's dissatisfaction may grow...
+Your Highness! I am but a simple peasant, but I have always dreamed of creating my very own farm! If you would be so kind to make my wish cometh true, I promise that Ill grow the tastiest, grandest apples the people have ever had.
+ABMy King! If you choose to say this, the people will grow happier and healthier. However, we will have to give 200 gold from our reserve to make it happen.
+
+ACMy King! If you choose to say this, there will be no change.
+Good day your highness. I'm looking to found a business in.. well.. certain underground dealings. I've come to make a donation of good will, in exchange for your permission to start my capital venture of course.
+ADMy King! If you choose to say this, we will receive monetary compensation. However, the people may riot and cause damage.
+
+AAMy King! If you choose to say this, the people's dissatisfaction may grow...
+Your holyness! I've come to ask you for your blessings and support for the Church's newest expedition. It will cost 200 shinies.
+ABMy King! If you choose to say this, the people will grow happier and healthier. However, we will have to give gold from our reserve.
+
+ACMy King! If you choose to say this, nothing will happen.
+Your holyness! I've come to ask you for your blessings and support for the Church's change to support sacrafices.
+AAMy King! If you choose to say this, the people's dissatisfaction may grow...
+
+AAMy King! If you choose to say this, the people's dissatisfaction may grow...
+Your holyness! Are you a faithful follower of the Church of Truth? With all this excess wealth, surely you can prove it with a mere 100 coins.
+AEMy King! If you choose to say this we will have to give gold from our reserve to prove our faith.
+
+ACMy King! If you choose to say this, there will be no change.
+Your holyness! I would like to request your humble support in our holy crusade for the land. It will cost 400 gold. Will you join us?
+AFMy King! If you choose to say this, we will have to supply a lot of gold!! However, in return the Church will aid our defenses in times of need. (Defense + 5)
+
+ACMy King! If you choose to say this, nothing will happen.
+Ruler of Realms, I beseach you to give me the 200 gold I need to complete my research on immortality. I swear to bring you my fruits of labor.. eventually.
+AGMy King! If you choose to say this, I am unsure what will happen. It could be a scam. However, it will cost us a decent sum.
+
+AIMy King! If you choose to say this, we will lose soldiers and therefore weaken our defenses.
+My Liege, our soldiers are starving! They don't have enough food and I fear they will turn against us! Increase our budget by 100 coins, and I will make sure they stay with us.
+AHMy King! If you choose to say this, we will provide them with gold and ensure no losses happen.
+
+ACMy King! If you choose to say this, we will not gain or lose anything.
+My King! I am a humble soldier, but we are so idle. Let us parade through the streets, we will show the people what it means to have pride for the kingdom.
+ADMy King! If you choose to say this, people could get hurt. However, they could collect donations for us along the way.
+
+AAMy King! If you choose to say this, the people's dissatisfaction will grow and they will be less healthy.
+My King! How are we supposed to live in this sewer city! Please, give me 50 gold and I will personally organize a movement to clean it. 
+AJMy King! If you choose to say this, the city will be sweeped clean. It will cost us but our people will be healthier.

@@ -1,0 +1,28 @@
+Game Completion Milestones:
+
+Finish adding all of the questions/responses (30 min)
+-at a decent amount, maybe 10 more and itd be in an ideal state
+
+Add more names (5min)
+
+Finish testing for all upgrades and question/responses
+-more or less finished
+
+Implement handling of action event costs that you dont have (1-2hr)
+-prevent button continuation ?
+-handle as a different answer code ?
+-currently continues as if you had it, but doesnt take effect
+
+Add a defense label and format (30min-1hr)
+
+Save past event/rep RNG # so that a new one is always generated
+-done for prompts
+-needs to be done for repIMGs probably
+
+MAJOR: 
+
+Implement custom upgrade images (difficult 10hr+)
+
+Implement more health loss events for challenge (2-3hr+)
+
+Add a settings button section and format (2-4hr+)
